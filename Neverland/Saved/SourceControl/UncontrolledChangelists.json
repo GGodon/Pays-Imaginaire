@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Git/Neverland/Neverland/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"D:/Git/Neverland/Neverland/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Git/Neverland/Neverland/Content/Tropical_Jungle_Pack/Maps/Showcase.umap",
+				"D:/Git/Neverland/Neverland/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Git/Neverland/Neverland/Content/Tropical_Jungle_Pack/ThirdPerson/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset",
+				"D:/Git/Neverland/Neverland/Content/Maps/World_PaysImaginaire.umap"
 			]
 		}
 	]
